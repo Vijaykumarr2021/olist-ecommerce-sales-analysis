@@ -62,4 +62,4 @@ olist-ecommerce-sales-analysis/
 4. Run `01_data_exploration.ipynb`, then `02_sql_analysis.ipynb`.
 
 ## Author
-Your Name | [LinkedIn](https://linkedin.com/in/your-profile) | your.email@example.com
+Vijay Kumar| [LinkedIn](https://linkedin.com/in/vijay-kumar-005159250) |vijaykumaraec2021@gmail.com
